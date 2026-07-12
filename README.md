@@ -8,6 +8,7 @@
 * **Back End**: API Gateway + Lambda, using a variety of other services as peripherals (e.g. Secrets Manager). Object storage in S3,and database services in DynamoDB and OpenSearch.
 
 Note: When I began this security AI journey, I already had my own personal website running at josh-whipkey.com.
+
 ---
 
 ## Phase 1: Runtime Defenses & Prompt Integrity (July 2026 – October 2026)
